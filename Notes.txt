@@ -1,0 +1,5 @@
+Class 63 Notes :-
+
+*NOTE : TextInput component helps us to take input from the user.
+
+*NOTE : TextInput component takes the value which is passed on to its “value” prop.
